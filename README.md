@@ -1,4 +1,4 @@
-# Dataset-for-Remote-Sensing-
+# Dataset-for-Remote-Sensing
 
 The file is the introduction for the fine-grained remote sensing classificaiton datasets.
 
