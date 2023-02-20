@@ -8,7 +8,7 @@ Fine-grained ship classification dataset\cite{fgsc23}, FGSC-23 for short, is a h
 
 #### Download Link
 
-- BaiduDisk Link: 链接: https://pan.baidu.com/s/1vnqN-16JmZ8tieFRSel3Ww?pwd=pgm9 提取码: pgm9 复制这段内容后打开百度网盘手机App，操作更方便哦
+- BaiduDisk Link: 链接: https://pan.baidu.com/s/1vnqN-16JmZ8tieFRSel3Ww?pwd=pgm9 Extraction code: pgm9
 - Google Disk: https://drive.google.com/file/d/1XR5CW6uHR7w69Y0GByhOGvgNmhRJUWlg/view?usp=sharing
 
 #### Citation
@@ -31,7 +31,7 @@ Fine-Grained Ship Classification in Remote-sensing with 42 classes, FGSCR-42 for
 
 #### Download Link
 
-- BaiduDisk Link: 链接: https://pan.baidu.com/s/1DTR5-THtg3E5bZuZ1NiwFg?pwd=1q3d 提取码: 1q3d 复制这段内容后打开百度网盘手机App，操作更方便哦
+- BaiduDisk Link: 链接: https://pan.baidu.com/s/1DTR5-THtg3E5bZuZ1NiwFg?pwd=1q3d Extraction code: 1q3d
 - Google Disk: 
 
 #### Citation
