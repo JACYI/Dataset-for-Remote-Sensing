@@ -12,6 +12,13 @@ Fine-grained ship classification dataset\cite{fgsc23}, FGSC-23 for short, is a h
 - Google Disk: https://drive.google.com/file/d/1XR5CW6uHR7w69Y0GByhOGvgNmhRJUWlg/view?usp=sharing
 
 #### Citation
+```
+X. Zhang, Y. Lv, L. Yao, W. Xiong, and C. Fu, “A new benchmark
+and an attribute-guided multilevel feature representation network for
+fine-grained ship classification in optical remote sensing images,” IEEE
+Journal of Selected Topics in Applied Earth Observations and Remote
+Sensing, vol. 13, pp. 1271–1285, 2020.
+```
 
 ### FGSCR-42
 
@@ -24,7 +31,11 @@ Fine-Grained Ship Classification in Remote-sensing with 42 classes, FGSCR-42 for
 - Google Disk: 
 
 #### Citation
-
+```
+Y. Di, Z. Jiang, and H. Zhang, “A public dataset for fine-grained ship
+classification in optical remote sensing images,” Remote Sensing, vol. 13,
+no. 4, p. 747, 2021.
+```
 
 ### aircraft-16
 #### Introduction
