@@ -48,5 +48,8 @@ no. 4, p. 747, 2021.
 #### Citation
 
 ```
-Y. Yi, Y. You, W. Zhou and G. Meng, "MHA-CNN: Aircraft Fine-Grained Recognition of Remote Sensing Image Based on Multiple Hierarchies Attention," IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium, 2022, pp. 3051-3054, doi: 10.1109/IGARSS46834.2022.9884219.
+Y. Yi, Y. You, W. Zhou and G. Meng, "MHA-CNN: Aircraft Fine-Grained Recognition
+of Remote Sensing Image Based on Multiple Hierarchies Attention,"
+IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium, 2022,
+pp. 3051-3054, doi: 10.1109/IGARSS46834.2022.9884219.
 ```
