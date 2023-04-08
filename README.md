@@ -8,8 +8,8 @@ Fine-grained ship classification dataset\cite{fgsc23}, FGSC-23 for short, is a h
 
 #### Download Link
 
-- BaiduDisk Link: https://pan.baidu.com/s/1h_F7c-btLqhOxLT20XHWBg , extraction code: `n8ra`
-- Google Disk: https://drive.google.com/file/d/1XR5CW6uHR7w69Y0GByhOGvgNmhRJUWlg/view?usp=sharing
+- [BaiduDisk Link](https://pan.baidu.com/s/1h_F7c-btLqhOxLT20XHWBg), extraction code: `n8ra`
+- [Google Disk](https://drive.google.com/file/d/1XR5CW6uHR7w69Y0GByhOGvgNmhRJUWlg/view?usp=sharing)
 
 #### Citation
 ```
@@ -31,8 +31,8 @@ Fine-Grained Ship Classification in Remote-sensing with 42 classes, FGSCR-42 for
 
 #### Download Link
 
-- BaiduDisk Link: https://pan.baidu.com/s/15EYAMgGI7p5whntT_XqyXA?pwd=w3r3 , extraction code: `w3r3`
-- Google Disk: 
+- [BaiduDisk Link](https://pan.baidu.com/s/15EYAMgGI7p5whntT_XqyXA?pwd=w3r3), extraction code: `w3r3`
+- [Google Disk]()
 
 #### Citation
 ```
@@ -53,8 +53,8 @@ Fine-Grained Ship Classification in Remote-sensing with 42 classes, FGSCR-42 for
 
 #### Download Link
 
-- BaiduDisk Link: 链接: https://pan.baidu.com/s/1DTR5-THtg3E5bZuZ1NiwFg?pwd=1q3d , extraction code: `1q3d`
-- Google Disk: https://drive.google.com/file/d/1n0aoB0FJIvrA5xpC8AfeXKZKqCFu2Gca/view?usp=sharing
+- [BaiduDisk Link](https://pan.baidu.com/s/1DTR5-THtg3E5bZuZ1NiwFg?pwd=1q3d), extraction code: `1q3d`
+- [Google Disk](https://drive.google.com/file/d/1n0aoB0FJIvrA5xpC8AfeXKZKqCFu2Gca/view?usp=sharing)
 
 #### Citation
 
