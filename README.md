@@ -13,11 +13,15 @@ Fine-grained ship classification dataset\cite{fgsc23}, FGSC-23 for short, is a h
 
 #### Citation
 ```
-X. Zhang, Y. Lv, L. Yao, W. Xiong, and C. Fu, “A new benchmark
-and an attribute-guided multilevel feature representation network for
-fine-grained ship classification in optical remote sensing images,” IEEE
-Journal of Selected Topics in Applied Earth Observations and Remote
-Sensing, vol. 13, pp. 1271–1285, 2020.
+@article{zhang2020new,
+  title={A new benchmark and an attribute-guided multilevel feature representation network for fine-grained ship classification in optical remote sensing images},
+  author={Zhang, Xiaohan and Lv, Yafei and Yao, Libo and Xiong, Wei and Fu, Chunlong},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume={13},
+  pages={1271--1285},
+  year={2020},
+  publisher={IEEE}
+}
 ```
 
 ### FGSCR-42
@@ -32,9 +36,16 @@ Fine-Grained Ship Classification in Remote-sensing with 42 classes, FGSCR-42 for
 
 #### Citation
 ```
-Y. Di, Z. Jiang, and H. Zhang, “A public dataset for fine-grained ship
-classification in optical remote sensing images,” Remote Sensing, vol. 13,
-no. 4, p. 747, 2021.
+@article{di2021public,
+  title={A public dataset for fine-grained ship classification in optical remote sensing images},
+  author={Di, Yanghua and Jiang, Zhiguo and Zhang, Haopeng},
+  journal={Remote Sensing},
+  volume={13},
+  number={4},
+  pages={747},
+  year={2021},
+  publisher={MDPI}
+}
 ```
 
 ### aircraft-16
@@ -48,8 +59,12 @@ no. 4, p. 747, 2021.
 #### Citation
 
 ```
-Y. Yi, Y. You, W. Zhou and G. Meng, "MHA-CNN: Aircraft Fine-Grained Recognition
-of Remote Sensing Image Based on Multiple Hierarchies Attention,"
-IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium, 2022,
-pp. 3051-3054, doi: 10.1109/IGARSS46834.2022.9884219.
+@inproceedings{yi2022mha,
+  title={MHA-CNN: Aircraft Fine-Grained Recognition of Remote Sensing Image Based on Multiple Hierarchies Attention},
+  author={Yi, Yonghao and You, Yanan and Zhou, Wenli and Meng, Gang},
+  booktitle={IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium},
+  pages={3051--3054},
+  year={2022},
+  organization={IEEE}
+}
 ```
